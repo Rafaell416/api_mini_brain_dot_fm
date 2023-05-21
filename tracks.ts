@@ -1,7 +1,7 @@
 enum TRACK_CATEGORY {
-  RELAX = 'RELAX',
-  SLEEP = 'SLEEP',
-  FOCUS = 'FOCUS'
+  RELAX = 'relax',
+  SLEEP = 'sleep',
+  FOCUS = 'focus'
 }
 
 interface Track {
